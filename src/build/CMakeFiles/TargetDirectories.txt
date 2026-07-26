@@ -1,0 +1,3 @@
+/Users/vivekshenoy/Documents/Projects/LectureHelp/src/build/CMakeFiles/main.dir
+/Users/vivekshenoy/Documents/Projects/LectureHelp/src/build/CMakeFiles/edit_cache.dir
+/Users/vivekshenoy/Documents/Projects/LectureHelp/src/build/CMakeFiles/rebuild_cache.dir
