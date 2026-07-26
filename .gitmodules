@@ -1,0 +1,9 @@
+[submodule "extern/whisper.cpp"]
+	path = extern/whisper.cpp
+	url = https://github.com/ggml-org/whisper.cpp
+[submodule "extern/llama.cpp"]
+	path = extern/llama.cpp
+	url = https://github.com/ggml-org/llama.cpp
+[submodule "extern/sqlite-vec"]
+	path = extern/sqlite-vec
+	url = https://github.com/asg017/sqlite-vec
