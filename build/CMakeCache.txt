@@ -418,7 +418,7 @@ GGML_CUDA_FORCE_CUBLAS:BOOL=OFF
 GGML_CUDA_FORCE_MMQ:BOOL=OFF
 
 //ggml: use CUDA graphs (llama.cpp only)
-GGML_CUDA_GRAPHS:BOOL=OFF
+GGML_CUDA_GRAPHS:BOOL=ON
 
 //ggml: use NVIDIA Collective Comm. Library
 GGML_CUDA_NCCL:BOOL=ON
@@ -431,6 +431,12 @@ GGML_CUDA_NO_VMM:BOOL=OFF
 
 //ggml: max. batch size for using peer access
 GGML_CUDA_PEER_MAX_BATCH_SIZE:STRING=128
+
+//ggml: use ET backend
+GGML_ET:BOOL=OFF
+
+//ggml: use ET backend via sysemu
+GGML_ET_SYSEMU:BOOL=OFF
 
 //ggml: enable F16C
 GGML_F16C:BOOL=OFF
@@ -475,7 +481,7 @@ GGML_LASX:BOOL=ON
 GGML_LIB_INSTALL_DIR:PATH=lib
 
 //ggml: use LLAMAFILE
-GGML_LLAMAFILE:BOOL=OFF
+GGML_LLAMAFILE:BOOL=ON
 
 //ggml: enable lsx
 GGML_LSX:BOOL=ON
@@ -554,6 +560,15 @@ GGML_RV_ZVFBFWMA:BOOL=OFF
 
 //ggml: enable riscv zvfh
 GGML_RV_ZVFH:BOOL=ON
+
+//ggml: enable address sanitizer
+GGML_SANITIZE_ADDRESS:BOOL=OFF
+
+//ggml: enable thread sanitizer
+GGML_SANITIZE_THREAD:BOOL=OFF
+
+//ggml: enable undefined sanitizer
+GGML_SANITIZE_UNDEFINED:BOOL=OFF
 
 //Path to a program.
 GGML_SCCACHE_FOUND:FILEPATH=GGML_SCCACHE_FOUND-NOTFOUND
@@ -716,10 +731,6 @@ LLAMA_SANITIZE_THREAD:BOOL=OFF
 //llama: enable undefined sanitizer
 LLAMA_SANITIZE_UNDEFINED:BOOL=OFF
 
-//llama-common: use subprocess, required by server tools and server
-// router mode
-LLAMA_SUBPROCESS:BOOL=ON
-
 //llama: install tests
 LLAMA_TESTS_INSTALL:BOOL=ON
 
@@ -834,13 +845,13 @@ WHISPER_USE_SYSTEM_GGML:BOOL=OFF
 ZENDNN_ROOT:BOOL=OFF
 
 //Value Computed by CMake
-ggml_BINARY_DIR:STATIC=/home/drac/gitRepos/LectureHelp/build/extern/whisper.cpp/ggml
+ggml_BINARY_DIR:STATIC=/home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/ggml
 
 //Value Computed by CMake
 ggml_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-ggml_SOURCE_DIR:STATIC=/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml
+ggml_SOURCE_DIR:STATIC=/home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml
 
 //Value Computed by CMake
 llama.cpp_BINARY_DIR:STATIC=/home/drac/gitRepos/LectureHelp/build/extern/llama.cpp

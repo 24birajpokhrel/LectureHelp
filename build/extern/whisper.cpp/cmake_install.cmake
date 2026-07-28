@@ -148,7 +148,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/drac/gitRepos/LectureHelp/build/extern/whisper.cpp/ggml/cmake_install.cmake")
   include("/home/drac/gitRepos/LectureHelp/build/extern/whisper.cpp/src/cmake_install.cmake")
 
 endif()

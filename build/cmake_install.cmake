@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/drac/gitRepos/LectureHelp/build/extern/whisper.cpp/cmake_install.cmake")
+  include("/home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/cmake_install.cmake")
+  include("/home/drac/gitRepos/LectureHelp/build/extern/whisper.cpp/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

@@ -2,7 +2,7 @@ extern/whisper.cpp/src/CMakeFiles/parakeet.dir/parakeet.cpp.o: \
  /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/parakeet.cpp \
  /usr/include/stdc-predef.h \
  /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/../include/parakeet.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h \
@@ -22,9 +22,9 @@ extern/whisper.cpp/src/CMakeFiles/parakeet.dir/parakeet.cpp.o: \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
  /usr/include/bits/floatn-common.h /usr/include/bits/stdio.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpu.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-backend.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-alloc.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpu.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-backend.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-alloc.h \
  /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/parakeet-arch.h \
  /usr/include/c++/16/map /usr/include/c++/16/bits/requires_hosted.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -72,8 +72,8 @@ extern/whisper.cpp/src/CMakeFiles/parakeet.dir/parakeet.cpp.o: \
  /usr/include/c++/16/bits/erase_if.h \
  /usr/include/c++/16/bits/memory_resource.h /usr/include/c++/16/cstddef \
  /usr/include/c++/16/bits/uses_allocator_args.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpp.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/gguf.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpp.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/gguf.h \
  /usr/include/c++/16/memory /usr/include/c++/16/bits/stl_tempbuf.h \
  /usr/include/c++/16/bits/stl_uninitialized.h \
  /usr/include/c++/16/bits/stl_raw_storage_iter.h \

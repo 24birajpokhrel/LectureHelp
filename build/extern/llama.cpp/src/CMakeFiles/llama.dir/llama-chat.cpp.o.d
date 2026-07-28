@@ -106,13 +106,13 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-chat.cpp.o: \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
  /usr/include/bits/stdint-least.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include/llama.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpu.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-backend.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-alloc.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-opt.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/gguf.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpu.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-backend.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-alloc.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-opt.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/gguf.h \
  /usr/include/c++/16/map /usr/include/c++/16/bits/stl_tree.h \
  /usr/include/c++/16/ext/aligned_buffer.h \
  /usr/include/c++/16/bits/node_handle.h \

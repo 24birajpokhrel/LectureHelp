@@ -119,7 +119,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-mmap.cpp.o: \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/stdio.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/llama-impl.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/include/c++/16/string /usr/include/c++/16/bits/char_traits.h \
  /usr/include/c++/16/bits/localefwd.h \

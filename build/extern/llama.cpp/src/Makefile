@@ -2407,30 +2407,6 @@ models/kimi-linear.cpp.s:
 	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/kimi-linear.cpp.s
 .PHONY : models/kimi-linear.cpp.s
 
-models/laguna.o: models/laguna.cpp.o
-.PHONY : models/laguna.o
-
-# target to build an object file
-models/laguna.cpp.o:
-	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o
-.PHONY : models/laguna.cpp.o
-
-models/laguna.i: models/laguna.cpp.i
-.PHONY : models/laguna.i
-
-# target to preprocess a source file
-models/laguna.cpp.i:
-	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.i
-.PHONY : models/laguna.cpp.i
-
-models/laguna.s: models/laguna.cpp.s
-.PHONY : models/laguna.s
-
-# target to generate assembly for a file
-models/laguna.cpp.s:
-	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.s
-.PHONY : models/laguna.cpp.s
-
 models/lfm2.o: models/lfm2.cpp.o
 .PHONY : models/lfm2.o
 
@@ -2814,30 +2790,6 @@ models/minimax-m2.s: models/minimax-m2.cpp.s
 models/minimax-m2.cpp.s:
 	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.s
 .PHONY : models/minimax-m2.cpp.s
-
-models/minimax-m3.o: models/minimax-m3.cpp.o
-.PHONY : models/minimax-m3.o
-
-# target to build an object file
-models/minimax-m3.cpp.o:
-	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o
-.PHONY : models/minimax-m3.cpp.o
-
-models/minimax-m3.i: models/minimax-m3.cpp.i
-.PHONY : models/minimax-m3.i
-
-# target to preprocess a source file
-models/minimax-m3.cpp.i:
-	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.i
-.PHONY : models/minimax-m3.cpp.i
-
-models/minimax-m3.s: models/minimax-m3.cpp.s
-.PHONY : models/minimax-m3.s
-
-# target to generate assembly for a file
-models/minimax-m3.cpp.s:
-	cd /home/drac/gitRepos/LectureHelp/build && $(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.s
-.PHONY : models/minimax-m3.cpp.s
 
 models/mistral3.o: models/mistral3.cpp.o
 .PHONY : models/mistral3.o
@@ -4499,9 +4451,6 @@ help:
 	@echo "... models/kimi-linear.o"
 	@echo "... models/kimi-linear.i"
 	@echo "... models/kimi-linear.s"
-	@echo "... models/laguna.o"
-	@echo "... models/laguna.i"
-	@echo "... models/laguna.s"
 	@echo "... models/lfm2.o"
 	@echo "... models/lfm2.i"
 	@echo "... models/lfm2.s"
@@ -4550,9 +4499,6 @@ help:
 	@echo "... models/minimax-m2.o"
 	@echo "... models/minimax-m2.i"
 	@echo "... models/minimax-m2.s"
-	@echo "... models/minimax-m3.o"
-	@echo "... models/minimax-m3.i"
-	@echo "... models/minimax-m3.s"
 	@echo "... models/mistral3.o"
 	@echo "... models/mistral3.i"
 	@echo "... models/mistral3.s"

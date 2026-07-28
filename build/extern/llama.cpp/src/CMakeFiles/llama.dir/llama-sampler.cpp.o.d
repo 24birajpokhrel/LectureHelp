@@ -3,7 +3,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-sampler.cpp.o: \
  /usr/include/stdc-predef.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/llama-sampler.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include/llama.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h \
@@ -23,11 +23,11 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-sampler.cpp.o: \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
  /usr/include/bits/floatn-common.h /usr/include/bits/stdio.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpu.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-backend.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-alloc.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-opt.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/gguf.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpu.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-backend.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-alloc.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-opt.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/gguf.h \
  /usr/include/c++/16/vector /usr/include/c++/16/bits/requires_hosted.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -194,7 +194,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-sampler.cpp.o: \
  /usr/include/c++/16/bits/regex.h /usr/include/c++/16/bits/regex.tcc \
  /usr/include/c++/16/bits/regex_executor.h \
  /usr/include/c++/16/bits/regex_executor.tcc \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpp.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpp.h \
  /usr/include/c++/16/array /usr/include/c++/16/compare \
  /usr/include/c++/16/algorithm \
  /usr/include/c++/16/pstl/glue_algorithm_defs.h \

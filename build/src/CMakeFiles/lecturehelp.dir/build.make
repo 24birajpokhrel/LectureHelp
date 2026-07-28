@@ -129,7 +129,7 @@ src/lecturehelp: src/CMakeFiles/lecturehelp.dir/__/extern/sqlite-vec/sqlite-vec.
 src/lecturehelp: src/CMakeFiles/lecturehelp.dir/build.make
 src/lecturehelp: src/CMakeFiles/lecturehelp.dir/compiler_depend.ts
 src/lecturehelp: bin/libwhisper.so.1.9.1
-src/lecturehelp: bin/libllama.so.0.0.10137
+src/lecturehelp: bin/libllama.so.0.0.9999
 src/lecturehelp: bin/libggml.so.0.16.0
 src/lecturehelp: bin/libggml-cpu.so.0.16.0
 src/lecturehelp: bin/libggml-base.so.0.16.0

@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_SHARED
 
-C_INCLUDES = -I/home/drac/gitRepos/LectureHelp/extern/sqlite-vec -I/home/drac/gitRepos/LectureHelp/build/generated -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/. -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/../include -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include -I/home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include
+C_INCLUDES = -I/home/drac/gitRepos/LectureHelp/extern/sqlite-vec -I/home/drac/gitRepos/LectureHelp/build/generated -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/. -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/../include -I/home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include -I/home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include
 
 C_FLAGS = -O3 -DNDEBUG
 
 CXX_DEFINES = -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_SHARED
 
-CXX_INCLUDES = -I/home/drac/gitRepos/LectureHelp/extern/sqlite-vec -I/home/drac/gitRepos/LectureHelp/build/generated -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/. -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/../include -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include -I/home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include
+CXX_INCLUDES = -I/home/drac/gitRepos/LectureHelp/extern/sqlite-vec -I/home/drac/gitRepos/LectureHelp/build/generated -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/. -I/home/drac/gitRepos/LectureHelp/extern/whisper.cpp/src/../include -I/home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include -I/home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17
 

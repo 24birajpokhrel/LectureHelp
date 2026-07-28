@@ -1402,24 +1402,10 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/kimi-linear.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/llama.dir/models/kimi-linear.cpp.s"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/kimi-linear.cpp -o CMakeFiles/llama.dir/models/kimi-linear.cpp.s
 
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/laguna.cpp
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o"
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o -MF CMakeFiles/llama.dir/models/laguna.cpp.o.d -o CMakeFiles/llama.dir/models/laguna.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/laguna.cpp
-
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/llama.dir/models/laguna.cpp.i"
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/laguna.cpp > CMakeFiles/llama.dir/models/laguna.cpp.i
-
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/llama.dir/models/laguna.cpp.s"
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/laguna.cpp -o CMakeFiles/llama.dir/models/laguna.cpp.s
-
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/lfm2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o -MF CMakeFiles/llama.dir/models/lfm2.cpp.o.d -o CMakeFiles/llama.dir/models/lfm2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/lfm2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.i: cmake_force
@@ -1433,7 +1419,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/lfm2moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o -MF CMakeFiles/llama.dir/models/lfm2moe.cpp.o.d -o CMakeFiles/llama.dir/models/lfm2moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/lfm2moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.i: cmake_force
@@ -1447,7 +1433,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llada-moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o -MF CMakeFiles/llama.dir/models/llada-moe.cpp.o.d -o CMakeFiles/llama.dir/models/llada-moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llada-moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.i: cmake_force
@@ -1461,7 +1447,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llada.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o -MF CMakeFiles/llama.dir/models/llada.cpp.o.d -o CMakeFiles/llama.dir/models/llada.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llada.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.i: cmake_force
@@ -1475,7 +1461,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llama-embed.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o -MF CMakeFiles/llama.dir/models/llama-embed.cpp.o.d -o CMakeFiles/llama.dir/models/llama-embed.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llama-embed.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.i: cmake_force
@@ -1489,7 +1475,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llama.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o -MF CMakeFiles/llama.dir/models/llama.cpp.o.d -o CMakeFiles/llama.dir/models/llama.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llama.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.i: cmake_force
@@ -1503,7 +1489,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llama4.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o -MF CMakeFiles/llama.dir/models/llama4.cpp.o.d -o CMakeFiles/llama.dir/models/llama4.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/llama4.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.i: cmake_force
@@ -1517,7 +1503,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/maincoder.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o -MF CMakeFiles/llama.dir/models/maincoder.cpp.o.d -o CMakeFiles/llama.dir/models/maincoder.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/maincoder.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.i: cmake_force
@@ -1531,7 +1517,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mamba-base.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o -MF CMakeFiles/llama.dir/models/mamba-base.cpp.o.d -o CMakeFiles/llama.dir/models/mamba-base.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mamba-base.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.i: cmake_force
@@ -1545,7 +1531,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mamba.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o -MF CMakeFiles/llama.dir/models/mamba.cpp.o.d -o CMakeFiles/llama.dir/models/mamba.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mamba.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.i: cmake_force
@@ -1559,7 +1545,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mamba2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o -MF CMakeFiles/llama.dir/models/mamba2.cpp.o.d -o CMakeFiles/llama.dir/models/mamba2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mamba2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.i: cmake_force
@@ -1573,7 +1559,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mellum.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o -MF CMakeFiles/llama.dir/models/mellum.cpp.o.d -o CMakeFiles/llama.dir/models/mellum.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mellum.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.i: cmake_force
@@ -1587,7 +1573,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mimo2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o -MF CMakeFiles/llama.dir/models/mimo2.cpp.o.d -o CMakeFiles/llama.dir/models/mimo2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mimo2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.i: cmake_force
@@ -1601,7 +1587,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minicpm.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o -MF CMakeFiles/llama.dir/models/minicpm.cpp.o.d -o CMakeFiles/llama.dir/models/minicpm.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minicpm.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.i: cmake_force
@@ -1615,7 +1601,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minicpm3.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o -MF CMakeFiles/llama.dir/models/minicpm3.cpp.o.d -o CMakeFiles/llama.dir/models/minicpm3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minicpm3.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.i: cmake_force
@@ -1629,7 +1615,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o -MF CMakeFiles/llama.dir/models/minimax-m2.cpp.o.d -o CMakeFiles/llama.dir/models/minimax-m2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.i: cmake_force
@@ -1640,24 +1626,10 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/llama.dir/models/minimax-m2.cpp.s"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m2.cpp -o CMakeFiles/llama.dir/models/minimax-m2.cpp.s
 
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m3.cpp
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o"
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o -MF CMakeFiles/llama.dir/models/minimax-m3.cpp.o.d -o CMakeFiles/llama.dir/models/minimax-m3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m3.cpp
-
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/llama.dir/models/minimax-m3.cpp.i"
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m3.cpp > CMakeFiles/llama.dir/models/minimax-m3.cpp.i
-
-extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/llama.dir/models/minimax-m3.cpp.s"
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/minimax-m3.cpp -o CMakeFiles/llama.dir/models/minimax-m3.cpp.s
-
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mistral3.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o -MF CMakeFiles/llama.dir/models/mistral3.cpp.o.d -o CMakeFiles/llama.dir/models/mistral3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mistral3.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.i: cmake_force
@@ -1671,7 +1643,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mistral4.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o -MF CMakeFiles/llama.dir/models/mistral4.cpp.o.d -o CMakeFiles/llama.dir/models/mistral4.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mistral4.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.i: cmake_force
@@ -1685,7 +1657,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/modern-bert.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o -MF CMakeFiles/llama.dir/models/modern-bert.cpp.o.d -o CMakeFiles/llama.dir/models/modern-bert.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/modern-bert.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.i: cmake_force
@@ -1699,7 +1671,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mpt.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o -MF CMakeFiles/llama.dir/models/mpt.cpp.o.d -o CMakeFiles/llama.dir/models/mpt.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/mpt.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.i: cmake_force
@@ -1713,7 +1685,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nemotron-h-moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o -MF CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o.d -o CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nemotron-h-moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.i: cmake_force
@@ -1727,7 +1699,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.s: cmake_for
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nemotron-h.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o -MF CMakeFiles/llama.dir/models/nemotron-h.cpp.o.d -o CMakeFiles/llama.dir/models/nemotron-h.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nemotron-h.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.i: cmake_force
@@ -1741,7 +1713,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nemotron.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o -MF CMakeFiles/llama.dir/models/nemotron.cpp.o.d -o CMakeFiles/llama.dir/models/nemotron.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nemotron.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.i: cmake_force
@@ -1755,7 +1727,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/neo-bert.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o -MF CMakeFiles/llama.dir/models/neo-bert.cpp.o.d -o CMakeFiles/llama.dir/models/neo-bert.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/neo-bert.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.i: cmake_force
@@ -1769,7 +1741,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nomic-bert-moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o -MF CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o.d -o CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nomic-bert-moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.i: cmake_force
@@ -1783,7 +1755,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.s: cmake_for
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nomic-bert.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o -MF CMakeFiles/llama.dir/models/nomic-bert.cpp.o.d -o CMakeFiles/llama.dir/models/nomic-bert.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/nomic-bert.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.i: cmake_force
@@ -1797,7 +1769,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/olmo.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o -MF CMakeFiles/llama.dir/models/olmo.cpp.o.d -o CMakeFiles/llama.dir/models/olmo.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/olmo.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.i: cmake_force
@@ -1811,7 +1783,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/olmo2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o -MF CMakeFiles/llama.dir/models/olmo2.cpp.o.d -o CMakeFiles/llama.dir/models/olmo2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/olmo2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.i: cmake_force
@@ -1825,7 +1797,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/olmoe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o -MF CMakeFiles/llama.dir/models/olmoe.cpp.o.d -o CMakeFiles/llama.dir/models/olmoe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/olmoe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.i: cmake_force
@@ -1839,7 +1811,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/openai-moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o -MF CMakeFiles/llama.dir/models/openai-moe.cpp.o.d -o CMakeFiles/llama.dir/models/openai-moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/openai-moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.i: cmake_force
@@ -1853,7 +1825,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/openelm.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o -MF CMakeFiles/llama.dir/models/openelm.cpp.o.d -o CMakeFiles/llama.dir/models/openelm.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/openelm.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.i: cmake_force
@@ -1867,7 +1839,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/orion.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o -MF CMakeFiles/llama.dir/models/orion.cpp.o.d -o CMakeFiles/llama.dir/models/orion.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/orion.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.i: cmake_force
@@ -1881,7 +1853,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/paddleocr.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o -MF CMakeFiles/llama.dir/models/paddleocr.cpp.o.d -o CMakeFiles/llama.dir/models/paddleocr.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/paddleocr.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.i: cmake_force
@@ -1895,7 +1867,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/pangu-embed.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o -MF CMakeFiles/llama.dir/models/pangu-embed.cpp.o.d -o CMakeFiles/llama.dir/models/pangu-embed.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/pangu-embed.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.i: cmake_force
@@ -1909,7 +1881,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/phi2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o -MF CMakeFiles/llama.dir/models/phi2.cpp.o.d -o CMakeFiles/llama.dir/models/phi2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/phi2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.i: cmake_force
@@ -1923,7 +1895,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/phi3.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o -MF CMakeFiles/llama.dir/models/phi3.cpp.o.d -o CMakeFiles/llama.dir/models/phi3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/phi3.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.i: cmake_force
@@ -1937,7 +1909,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/phimoe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o -MF CMakeFiles/llama.dir/models/phimoe.cpp.o.d -o CMakeFiles/llama.dir/models/phimoe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/phimoe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.i: cmake_force
@@ -1951,7 +1923,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plamo.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o -MF CMakeFiles/llama.dir/models/plamo.cpp.o.d -o CMakeFiles/llama.dir/models/plamo.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plamo.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.i: cmake_force
@@ -1965,7 +1937,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plamo2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o -MF CMakeFiles/llama.dir/models/plamo2.cpp.o.d -o CMakeFiles/llama.dir/models/plamo2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plamo2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.i: cmake_force
@@ -1979,7 +1951,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plamo3.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o -MF CMakeFiles/llama.dir/models/plamo3.cpp.o.d -o CMakeFiles/llama.dir/models/plamo3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plamo3.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.i: cmake_force
@@ -1993,7 +1965,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plm.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o -MF CMakeFiles/llama.dir/models/plm.cpp.o.d -o CMakeFiles/llama.dir/models/plm.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/plm.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.i: cmake_force
@@ -2007,7 +1979,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o -MF CMakeFiles/llama.dir/models/qwen.cpp.o.d -o CMakeFiles/llama.dir/models/qwen.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.i: cmake_force
@@ -2021,7 +1993,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o -MF CMakeFiles/llama.dir/models/qwen2.cpp.o.d -o CMakeFiles/llama.dir/models/qwen2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.i: cmake_force
@@ -2035,7 +2007,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen2moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o -MF CMakeFiles/llama.dir/models/qwen2moe.cpp.o.d -o CMakeFiles/llama.dir/models/qwen2moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen2moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.i: cmake_force
@@ -2049,7 +2021,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen2vl.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o -MF CMakeFiles/llama.dir/models/qwen2vl.cpp.o.d -o CMakeFiles/llama.dir/models/qwen2vl.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen2vl.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.i: cmake_force
@@ -2063,7 +2035,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o -MF CMakeFiles/llama.dir/models/qwen3.cpp.o.d -o CMakeFiles/llama.dir/models/qwen3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.i: cmake_force
@@ -2077,7 +2049,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen35.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o -MF CMakeFiles/llama.dir/models/qwen35.cpp.o.d -o CMakeFiles/llama.dir/models/qwen35.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen35.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.i: cmake_force
@@ -2091,7 +2063,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen35moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o -MF CMakeFiles/llama.dir/models/qwen35moe.cpp.o.d -o CMakeFiles/llama.dir/models/qwen35moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen35moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.i: cmake_force
@@ -2105,7 +2077,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3moe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o -MF CMakeFiles/llama.dir/models/qwen3moe.cpp.o.d -o CMakeFiles/llama.dir/models/qwen3moe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3moe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.i: cmake_force
@@ -2119,7 +2091,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3next.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o -MF CMakeFiles/llama.dir/models/qwen3next.cpp.o.d -o CMakeFiles/llama.dir/models/qwen3next.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3next.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.i: cmake_force
@@ -2133,7 +2105,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3vl.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o -MF CMakeFiles/llama.dir/models/qwen3vl.cpp.o.d -o CMakeFiles/llama.dir/models/qwen3vl.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3vl.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.i: cmake_force
@@ -2147,7 +2119,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3vlmoe.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o -MF CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o.d -o CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/qwen3vlmoe.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.i: cmake_force
@@ -2161,7 +2133,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/refact.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o -MF CMakeFiles/llama.dir/models/refact.cpp.o.d -o CMakeFiles/llama.dir/models/refact.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/refact.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.i: cmake_force
@@ -2175,7 +2147,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rnd1.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o -MF CMakeFiles/llama.dir/models/rnd1.cpp.o.d -o CMakeFiles/llama.dir/models/rnd1.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rnd1.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.i: cmake_force
@@ -2189,7 +2161,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv6-base.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o -MF CMakeFiles/llama.dir/models/rwkv6-base.cpp.o.d -o CMakeFiles/llama.dir/models/rwkv6-base.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv6-base.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.i: cmake_force
@@ -2203,7 +2175,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv6.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o -MF CMakeFiles/llama.dir/models/rwkv6.cpp.o.d -o CMakeFiles/llama.dir/models/rwkv6.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv6.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.i: cmake_force
@@ -2217,7 +2189,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv6qwen2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o -MF CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o.d -o CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv6qwen2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.i: cmake_force
@@ -2231,7 +2203,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv7-base.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o -MF CMakeFiles/llama.dir/models/rwkv7-base.cpp.o.d -o CMakeFiles/llama.dir/models/rwkv7-base.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv7-base.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.i: cmake_force
@@ -2245,7 +2217,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv7.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o -MF CMakeFiles/llama.dir/models/rwkv7.cpp.o.d -o CMakeFiles/llama.dir/models/rwkv7.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/rwkv7.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.i: cmake_force
@@ -2259,7 +2231,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/seed-oss.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o -MF CMakeFiles/llama.dir/models/seed-oss.cpp.o.d -o CMakeFiles/llama.dir/models/seed-oss.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/seed-oss.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.i: cmake_force
@@ -2273,7 +2245,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/smallthinker.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o -MF CMakeFiles/llama.dir/models/smallthinker.cpp.o.d -o CMakeFiles/llama.dir/models/smallthinker.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/smallthinker.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.i: cmake_force
@@ -2287,7 +2259,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/smollm3.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o -MF CMakeFiles/llama.dir/models/smollm3.cpp.o.d -o CMakeFiles/llama.dir/models/smollm3.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/smollm3.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.i: cmake_force
@@ -2301,7 +2273,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/stablelm.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o -MF CMakeFiles/llama.dir/models/stablelm.cpp.o.d -o CMakeFiles/llama.dir/models/stablelm.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/stablelm.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.i: cmake_force
@@ -2315,7 +2287,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/starcoder.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o -MF CMakeFiles/llama.dir/models/starcoder.cpp.o.d -o CMakeFiles/llama.dir/models/starcoder.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/starcoder.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.i: cmake_force
@@ -2329,7 +2301,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/starcoder2.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o -MF CMakeFiles/llama.dir/models/starcoder2.cpp.o.d -o CMakeFiles/llama.dir/models/starcoder2.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/starcoder2.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.i: cmake_force
@@ -2343,7 +2315,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/step35.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o -MF CMakeFiles/llama.dir/models/step35.cpp.o.d -o CMakeFiles/llama.dir/models/step35.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/step35.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.i: cmake_force
@@ -2357,7 +2329,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/t5.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o -MF CMakeFiles/llama.dir/models/t5.cpp.o.d -o CMakeFiles/llama.dir/models/t5.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/t5.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.i: cmake_force
@@ -2371,7 +2343,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/t5encoder.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o -MF CMakeFiles/llama.dir/models/t5encoder.cpp.o.d -o CMakeFiles/llama.dir/models/t5encoder.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/t5encoder.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.i: cmake_force
@@ -2385,7 +2357,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/talkie.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o -MF CMakeFiles/llama.dir/models/talkie.cpp.o.d -o CMakeFiles/llama.dir/models/talkie.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/talkie.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.i: cmake_force
@@ -2399,7 +2371,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.s: cmake_force
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/wavtokenizer-dec.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o -MF CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o.d -o CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/wavtokenizer-dec.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.i: cmake_force
@@ -2413,7 +2385,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.s: cmake_f
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/flags.make
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o: /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/xverse.cpp
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o -MF CMakeFiles/llama.dir/models/xverse.cpp.o.d -o CMakeFiles/llama.dir/models/xverse.cpp.o -c /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/xverse.cpp
 
 extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.i: cmake_force
@@ -2521,7 +2493,6 @@ llama_OBJECTS = \
 "CMakeFiles/llama.dir/models/jina-bert-v2.cpp.o" \
 "CMakeFiles/llama.dir/models/jina-bert-v3.cpp.o" \
 "CMakeFiles/llama.dir/models/kimi-linear.cpp.o" \
-"CMakeFiles/llama.dir/models/laguna.cpp.o" \
 "CMakeFiles/llama.dir/models/lfm2.cpp.o" \
 "CMakeFiles/llama.dir/models/lfm2moe.cpp.o" \
 "CMakeFiles/llama.dir/models/llada-moe.cpp.o" \
@@ -2538,7 +2509,6 @@ llama_OBJECTS = \
 "CMakeFiles/llama.dir/models/minicpm.cpp.o" \
 "CMakeFiles/llama.dir/models/minicpm3.cpp.o" \
 "CMakeFiles/llama.dir/models/minimax-m2.cpp.o" \
-"CMakeFiles/llama.dir/models/minimax-m3.cpp.o" \
 "CMakeFiles/llama.dir/models/mistral3.cpp.o" \
 "CMakeFiles/llama.dir/models/mistral4.cpp.o" \
 "CMakeFiles/llama.dir/models/modern-bert.cpp.o" \
@@ -2598,188 +2568,186 @@ llama_OBJECTS = \
 # External object files for target llama
 llama_EXTERNAL_OBJECTS =
 
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-adapter.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-arch.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-batch.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-chat.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-context.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-cparams.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-grammar.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-graph.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-hparams.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-impl.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-io.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache-iswa.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache-dsa.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache-dsv4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory-hybrid.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory-hybrid-iswa.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory-recurrent.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-mmap.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-model-loader.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-model-saver.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-model.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-quant.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-sampler.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-vocab.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/unicode-data.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/unicode.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/afmoe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/apertus.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/arcee.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/arctic.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/arwkv7.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/baichuan.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bailingmoe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bailingmoe2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bert.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bitnet.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bloom.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/chameleon.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/chatglm.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/codeshell.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/cogvlm.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/cohere2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/cohere2moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/command-r.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dbrx.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deci.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek2ocr.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek32.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/delta-net-base.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dflash.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dots1.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dream.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/eagle3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/ernie4-5-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/ernie4-5.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/eurobert.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/exaone-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/exaone.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/exaone4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/falcon-h1.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/falcon.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma-embedding.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma3n.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma4-assistant.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/glm-dsa.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/glm4-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/glm4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gpt2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gptneox.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/granite-hybrid.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/granite-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/granite.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/grok.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/grovemoe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hunyuan-dense.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hunyuan-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hunyuan-vl.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hy-v3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/internlm2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jais.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jais2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jamba.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jina-bert-v2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jina-bert-v3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/kimi-linear.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/laguna.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/build.make
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
-bin/libllama.so.0.0.10137: bin/libggml.so.0.16.0
-bin/libllama.so.0.0.10137: bin/libggml-cpu.so.0.16.0
-bin/libllama.so.0.0.10137: bin/libggml-base.so.0.16.0
-bin/libllama.so.0.0.10137: extern/llama.cpp/src/CMakeFiles/llama.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Linking CXX shared library ../../../bin/libllama.so"
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-adapter.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-arch.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-batch.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-chat.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-context.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-cparams.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-grammar.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-graph.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-hparams.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-impl.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-io.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache-iswa.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache-dsa.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-kv-cache-dsv4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory-hybrid.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory-hybrid-iswa.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-memory-recurrent.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-mmap.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-model-loader.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-model-saver.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-model.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-quant.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-sampler.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/llama-vocab.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/unicode-data.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/unicode.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/afmoe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/apertus.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/arcee.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/arctic.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/arwkv7.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/baichuan.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bailingmoe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bailingmoe2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bert.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bitnet.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/bloom.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/chameleon.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/chatglm.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/codeshell.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/cogvlm.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/cohere2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/cohere2moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/command-r.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dbrx.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deci.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek2ocr.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek32.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/delta-net-base.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dflash.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dots1.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/dream.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/eagle3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/ernie4-5-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/ernie4-5.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/eurobert.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/exaone-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/exaone.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/exaone4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/falcon-h1.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/falcon.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma-embedding.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma3n.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma4-assistant.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gemma4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/glm-dsa.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/glm4-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/glm4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gpt2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/gptneox.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/granite-hybrid.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/granite-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/granite.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/grok.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/grovemoe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hunyuan-dense.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hunyuan-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hunyuan-vl.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/hy-v3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/internlm2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jais.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jais2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jamba.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jina-bert-v2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/jina-bert-v3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/kimi-linear.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/lfm2moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llada.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama-embed.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/llama4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/maincoder.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba-base.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mamba2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mellum.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mimo2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minicpm3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/minimax-m2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mistral4.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/modern-bert.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/mpt.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron-h.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nemotron.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/neo-bert.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/nomic-bert.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmo2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/olmoe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/openai-moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/openelm.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/orion.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/paddleocr.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/pangu-embed.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/phi3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/phimoe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plamo3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/plm.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen2vl.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen35moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3moe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3next.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vl.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/qwen3vlmoe.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/refact.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rnd1.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6-base.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv6qwen2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7-base.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/rwkv7.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/seed-oss.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/smallthinker.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/smollm3.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/stablelm.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/starcoder2.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/step35.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/t5encoder.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/talkie.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/wavtokenizer-dec.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/models/xverse.cpp.o
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/build.make
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/compiler_depend.ts
+bin/libllama.so.0.0.9999: bin/libggml.so.0.16.0
+bin/libllama.so.0.0.9999: bin/libggml-cpu.so.0.16.0
+bin/libllama.so.0.0.9999: bin/libggml-base.so.0.16.0
+bin/libllama.so.0.0.9999: extern/llama.cpp/src/CMakeFiles/llama.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/drac/gitRepos/LectureHelp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Linking CXX shared library ../../../bin/libllama.so"
 	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/llama.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && $(CMAKE_COMMAND) -E cmake_symlink_library ../../../bin/libllama.so.0.0.10137 ../../../bin/libllama.so.0 ../../../bin/libllama.so
+	cd /home/drac/gitRepos/LectureHelp/build/extern/llama.cpp/src && $(CMAKE_COMMAND) -E cmake_symlink_library ../../../bin/libllama.so.0.0.9999 ../../../bin/libllama.so.0 ../../../bin/libllama.so
 
-bin/libllama.so.0: bin/libllama.so.0.0.10137
+bin/libllama.so.0: bin/libllama.so.0.0.9999
 	@$(CMAKE_COMMAND) -E touch_nocreate bin/libllama.so.0
 
-bin/libllama.so: bin/libllama.so.0.0.10137
+bin/libllama.so: bin/libllama.so.0.0.9999
 	@$(CMAKE_COMMAND) -E touch_nocreate bin/libllama.so
 
 # Rule to build all files generated by this target.

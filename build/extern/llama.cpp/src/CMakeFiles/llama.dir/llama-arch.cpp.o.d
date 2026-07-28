@@ -2,7 +2,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-arch.cpp.o: \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/llama-arch.cpp \
  /usr/include/stdc-predef.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/llama-arch.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h \

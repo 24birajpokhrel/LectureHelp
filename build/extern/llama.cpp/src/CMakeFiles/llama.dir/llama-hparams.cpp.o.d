@@ -3,7 +3,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-hparams.cpp.o: \
  /usr/include/stdc-predef.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/llama-hparams.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include/llama.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h \
@@ -23,11 +23,11 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/llama-hparams.cpp.o: \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
  /usr/include/bits/floatn-common.h /usr/include/bits/stdio.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpu.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-backend.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-alloc.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-opt.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/gguf.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpu.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-backend.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-alloc.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-opt.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/gguf.h \
  /usr/include/c++/16/array /usr/include/c++/16/compare \
  /usr/include/c++/16/bits/version.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h \

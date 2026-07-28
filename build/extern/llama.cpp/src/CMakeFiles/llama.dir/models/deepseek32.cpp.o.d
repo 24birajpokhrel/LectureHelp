@@ -4,7 +4,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek32.cpp.o: \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/models/models.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/./llama-model.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/../include/llama.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h \
@@ -24,11 +24,11 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek32.cpp.o: \
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
  /usr/include/bits/floatn-common.h /usr/include/bits/stdio.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpu.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-backend.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-alloc.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-opt.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/gguf.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpu.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-backend.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-alloc.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-opt.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/gguf.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/./llama-arch.h \
  /usr/include/c++/16/string /usr/include/c++/16/bits/requires_hosted.h \
  /usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -165,7 +165,7 @@ extern/llama.cpp/src/CMakeFiles/llama.dir/models/deepseek32.cpp.o: \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/./llama-hparams.h \
  /usr/include/c++/16/cassert /usr/include/assert.h \
  /home/drac/gitRepos/LectureHelp/extern/llama.cpp/src/./llama-adapter.h \
- /home/drac/gitRepos/LectureHelp/extern/whisper.cpp/ggml/src/../include/ggml-cpp.h \
+ /home/drac/gitRepos/LectureHelp/extern/llama.cpp/ggml/src/../include/ggml-cpp.h \
  /usr/include/c++/16/functional /usr/include/c++/16/bits/std_function.h \
  /usr/include/c++/16/bits/functexcept.h /usr/include/c++/16/map \
  /usr/include/c++/16/bits/stl_map.h \

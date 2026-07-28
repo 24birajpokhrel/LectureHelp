@@ -171,7 +171,7 @@ ggml-base: cmake_check_build_system
 
 # fast build rule for target.
 ggml-base/fast:
-	$(MAKE) $(MAKESILENT) -f extern/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/build.make extern/whisper.cpp/ggml/src/CMakeFiles/ggml-base.dir/build
+	$(MAKE) $(MAKESILENT) -f extern/llama.cpp/ggml/src/CMakeFiles/ggml-base.dir/build.make extern/llama.cpp/ggml/src/CMakeFiles/ggml-base.dir/build
 .PHONY : ggml-base/fast
 
 #=============================================================================
@@ -184,7 +184,7 @@ ggml: cmake_check_build_system
 
 # fast build rule for target.
 ggml/fast:
-	$(MAKE) $(MAKESILENT) -f extern/whisper.cpp/ggml/src/CMakeFiles/ggml.dir/build.make extern/whisper.cpp/ggml/src/CMakeFiles/ggml.dir/build
+	$(MAKE) $(MAKESILENT) -f extern/llama.cpp/ggml/src/CMakeFiles/ggml.dir/build.make extern/llama.cpp/ggml/src/CMakeFiles/ggml.dir/build
 .PHONY : ggml/fast
 
 #=============================================================================
@@ -197,8 +197,21 @@ ggml-cpu: cmake_check_build_system
 
 # fast build rule for target.
 ggml-cpu/fast:
-	$(MAKE) $(MAKESILENT) -f extern/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/build.make extern/whisper.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/build
+	$(MAKE) $(MAKESILENT) -f extern/llama.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/build.make extern/llama.cpp/ggml/src/CMakeFiles/ggml-cpu.dir/build
 .PHONY : ggml-cpu/fast
+
+#=============================================================================
+# Target rules for targets named llama
+
+# Build rule for target.
+llama: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 llama
+.PHONY : llama
+
+# fast build rule for target.
+llama/fast:
+	$(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/build
+.PHONY : llama/fast
 
 #=============================================================================
 # Target rules for targets named whisper
@@ -225,19 +238,6 @@ parakeet: cmake_check_build_system
 parakeet/fast:
 	$(MAKE) $(MAKESILENT) -f extern/whisper.cpp/src/CMakeFiles/parakeet.dir/build.make extern/whisper.cpp/src/CMakeFiles/parakeet.dir/build
 .PHONY : parakeet/fast
-
-#=============================================================================
-# Target rules for targets named llama
-
-# Build rule for target.
-llama: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 llama
-.PHONY : llama
-
-# fast build rule for target.
-llama/fast:
-	$(MAKE) $(MAKESILENT) -f extern/llama.cpp/src/CMakeFiles/llama.dir/build.make extern/llama.cpp/src/CMakeFiles/llama.dir/build
-.PHONY : llama/fast
 
 #=============================================================================
 # Target rules for targets named lecturehelp
