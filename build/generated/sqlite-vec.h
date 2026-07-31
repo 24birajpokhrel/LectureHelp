@@ -19,7 +19,7 @@
 
 #define SQLITE_VEC_VERSION "v0.1.10-alpha.4"
 // TODO rm
-#define SQLITE_VEC_DATE "2026-07-28T01:14:20Z"
+#define SQLITE_VEC_DATE "2026-07-31T18:56:25Z"
 #define SQLITE_VEC_SOURCE "unknown"
 
 
