@@ -1,1 +1,29 @@
-.vs/
+# Build output
+build/
+src/build/
+
+# CMake generated files (in case cmake ever gets run from a non-build dir)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Downloaded models (whisper GGUF, llama GGUF, etc.) - never commit these
+models/
+*.bin
+*.gguf
+
+# Compiled binaries
+*.o
+*.so
+*.a
+*.out
+lecturehelp
+
+# Editor/IDE cruft
+.vscode/
+.idea/
+*.swp
+
+# OS cruft
+.DS_Store

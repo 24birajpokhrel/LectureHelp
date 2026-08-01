@@ -21,7 +21,6 @@ configure_file(
 
 add_executable(lecturehelp
     main.cpp
-    ASR.cpp
     ${SQLITE_VEC_DIR}/sqlite-vec.c
 )
 
